@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DND-DM-App", "DND-DM-App\DND-DM-App.csproj", "{6AE76FDE-B1DA-47E8-A5FC-023BA91F063A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE76FDE-B1DA-47E8-A5FC-023BA91F063A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE76FDE-B1DA-47E8-A5FC-023BA91F063A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE76FDE-B1DA-47E8-A5FC-023BA91F063A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE76FDE-B1DA-47E8-A5FC-023BA91F063A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9058DE39-F1DD-444C-9BF3-548D65A91C9D}
+	EndGlobalSection
+EndGlobal
